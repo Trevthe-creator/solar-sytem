@@ -40,6 +40,7 @@ h2 {
   background-color:#6a3e9c;
   padding: 20px;
   display: flex;
+  flex-wrap: nowrap;
 
 }
 .trevor5 img{
