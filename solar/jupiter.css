@@ -1,0 +1,9 @@
+
+body{background-color: black;
+color: azure;
+width: 80%;
+text-align: center;}
+.jupiter{display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 60%;}

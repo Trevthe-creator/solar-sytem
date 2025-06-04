@@ -1,0 +1,47 @@
+h1 {
+    text-align:center;
+    color: rgb(240, 255, 255);
+font: xx-large;
+}
+h2{
+    color: azure;
+    font-size: x-large;
+}
+p{
+    color: azure;
+}
+h3{color: azure;
+font-size:medium;}
+body{
+    background-color: black;
+    color: azure;
+    text-align:left;
+}
+nav { 
+    background-color: rgb(66, 66, 61);
+    border-radius: 65px;
+    padding: 15px;
+    display:flex;
+    gap: 20px;
+    justify-content:right;
+    text-decoration:none;
+    
+
+}
+button{background-color: rgb(155, 163, 161);
+border-radius: 50px;
+border-color:azure;
+border-style:var(90px);
+border-bottom: 5px;
+}
+
+
+
+a {text-decoration: solid;
+    color: azure;
+    font-size: xx-large;
+    color: azure;}
+
+    .planets {display:grid;
+        grid-template-rows: 2fr 2fr;
+}

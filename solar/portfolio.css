@@ -1,0 +1,73 @@
+body {
+  background-color: rgb(38, 40, 41);
+  width: 80%;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  color: #8f18d4;
+  font-size: 40px;
+}
+nav {
+  background-color:#9c31da ;
+  padding: 25px;
+  display: flex;
+  gap: 35px;
+  justify-content: left;
+  border-radius: 75px;
+  text-decoration: none;
+
+} 
+.TREV {position: relative;
+left: 960px;
+bottom: 40px;;
+width: 10px;
+height: 10px;
+}
+a {
+  text-decoration: none;
+   color: #e9e7eef5;
+}
+p {
+  color: #1b1b1b;
+  font-size: 25px;
+}
+h2 {
+  color: #661cc7;
+}
+
+.TREVOR {
+  background-color:#6a3e9c;
+  padding: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+
+}
+.trevor5 img{
+  border-radius: 50%;
+}
+.TREVOR1 { background-color:#6a3e9c;
+  font-size: 25px;
+}
+.trevor2 {
+  text-align: center;
+background-color: #6a3e9c;
+display:flex;
+gap:260px;
+padding: 20px;
+}z
+.trevor2 a {
+  text-decoration:none;
+  color: azure;
+}
+.trevor3 {
+  text-align: center;
+  color:rgba(186, 193, 201, 0.877);
+}
+.trevor3 p{ color: rgba(129, 126, 126, 0.877);}
+.trevor3 a{color: rgb(191, 197, 204);}
+footer {
+  font-size: 2rem;
+  border: 2px solid black;
+ justify-content:center;
+}
